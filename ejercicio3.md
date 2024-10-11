@@ -40,4 +40,4 @@
 
 > Simplemente vamos a ir al fichero de master y quitamos la modificación que hicimos, al hacer merge si nos dejará.
 
-![Imagen]()
+![Imagen](https://github.com/AlvaroSanJuan20/prueba3_Alvaro/blob/master/GitHubImages/7.png)
