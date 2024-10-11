@@ -1,4 +1,7 @@
-# Pasos para completar la actividad 3
+# Ejercicio 3: Git. Trabajando con ramas y uniones
+`por Alvaro San Juan - ASIR2 (2024/2025)`
+
+En esta actividad vamos a trabajar con ramas y aprender como funcionan, ademas de como se traducen a GitHub en un repositorio remoto.
 
 ## Preparación
 
